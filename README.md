@@ -6,10 +6,6 @@ ProfitPal is an open-source, customizable Discord bot that brings an engaging ec
 
 - 💸 **Virtual Currency**: Earn and spend currency through various commands and activities.
 - 📈 **Leaderboards**: Compete against other members to see who has the most wealth!
-- 🎮 **Mini-Games**: Engage in fun activities like gambling, betting, and trading.
-- 🛍️ **Item Shop**: Buy and sell virtual items to enhance your server's economy.
-- 📦 **Inventory System**: Users can collect and manage items.
-- 🏆 **Quests & Achievements**: Complete quests and earn achievements for rewards.
 - 📝 **Customizable Commands**: Easily add, remove, or modify commands to fit your server’s needs.
 - 🔧 **Open Source**: Customize and contribute to the bot's development.
 
@@ -76,7 +72,7 @@ ProfitPal is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue or reach out to us via the [Discord support server](https://discord.gg/your-invite-link).
+If you encounter any issues or have questions, feel free to open an issue or reach out to us via the [Discord support server](https://discord.gg/cNF85dmdby).
 
 ## Credits
 
